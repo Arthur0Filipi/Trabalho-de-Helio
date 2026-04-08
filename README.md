@@ -1,2 +1,6 @@
 # Trabalho-de-Helio
-Participantes:
+Participantes: <br/>
+Arthur Filipi <br/>
+Eduardo Monteiro <br/>
+Iraquitan Vieira <br/>
+David Lins
