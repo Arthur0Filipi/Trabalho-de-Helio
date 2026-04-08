@@ -1,9 +1,10 @@
 # TrampoJusto_teste
 Participantes: <br/>
-Arthur Filipi <br/>
+Arthur Filipi Pereira da Silva <br/>
 Eduardo Monteiro <br/>
 Iraquitan Vieira <br/>
-David Lins
+David Lins <br/>
+Nicacio Dias
 
 <h4>Nome do App:</h4>
 <h5>TrampoJusto</h5>
